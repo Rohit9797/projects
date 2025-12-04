@@ -1,10 +1,10 @@
-name = "project"
+name = "projects"
 compatibility_date = "2025-01-01"
 
 pages_build_output_dir = "."
+functions = "./functions"
 
-# Bind KV namespace
+# KV Binding
 [[kv_namespaces]]
 binding = "LOGIN_DATA"
-id = "43fdf24102b94bc5973a21ff2cb65f24"
-
+id = "186dce4a502143889b5c203e2c5ab338"
