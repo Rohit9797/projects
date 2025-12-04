@@ -1,0 +1,10 @@
+name = "project"
+compatibility_date = "2025-01-01"
+
+pages_build_output_dir = "."
+
+# Bind KV namespace
+[[kv_namespaces]]
+binding = "LOGIN_DATA"
+id = "43fdf24102b94bc5973a21ff2cb65f24"
+
